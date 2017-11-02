@@ -8,6 +8,6 @@ Pod::Spec.new do |s|
     s.author             = { "liqinghong" => "ding13525163308@163.com" }
     s.social_media_url   = "http://twitter.com/liqinghong"
     s.source       = { :git => "https://github.com/redPace/JKTest.git", :tag => s.version }
-    s.source_files  = "JKtest/test/*.{h,m}" 
+    s.source_files  = "redPace/JKTest/*.{h,m}" 
     s.requires_arc = true
 end
